@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Mi nombre es Julio</h1>
 <h3 align="center">Soy un apasionado frontend developer y soy de México</h3>
 
-- 🌱 Me encuentro aprendiendo **Javascript & React**
+- 🌱 Me encuentro aprendiendo **Javascript & Lit**
 
 - 🤝 He podido colaborar en un proyecto escolar el cual es: [Unique](https://denflores.github.io/yolitia/)
 
